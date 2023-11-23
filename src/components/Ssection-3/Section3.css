@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+.s3-banner {
+  background-image: url(../../images/about.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.s3-title span {
+  font-size: 60px;
+  display: block;
+  margin-bottom: 0;
+  font-family: "Great Vibes", cursive;
+  color: #c49b63;
+  line-height: 1;
+  margin-bottom: -21px;
+}
+.s3-title h2 {
+  color: #ffff;
+
+  font-size: 40px;
+  font-weight: 700;
+  position: relative;
+  text-transform: uppercase;
+}
+.s3-title1 {
+  font-size: 20px;
+  line-height: 1.8;
+  font-weight: 300;
+  color: gray;
+}

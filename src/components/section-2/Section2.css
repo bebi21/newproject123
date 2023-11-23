@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+.s2-title {
+  line-height: 1.4;
+  font-size: 25px;
+  font-weight: 400;
+  font-family: "Josefin Sans", Arial, sans-serif;
+}
+.s2-title1 {
+  font-family: "Poppins", Arial, sans-serif;
+
+  font-size: 18px;
+  line-height: 1.8;
+  font-weight: 300;
+  color: gray;
+}

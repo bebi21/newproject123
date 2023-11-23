@@ -1,0 +1,21 @@
+.show-hello {
+  z-index: 999;
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out; /* Thêm chuyển động opacity */
+}
+
+.hello-hidden {
+  z-index: 999;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out; /* Thêm chuyển động opacity */
+}
+.custom-nav {
+  background-color: rgb(21, 17, 17);
+}
+#custom-nav1 {
+  background-color: rgb(21, 17, 17);
+}
+#custom-nav2 {
+  background-color: rgba(21, 17, 17, 0);
+}
+
